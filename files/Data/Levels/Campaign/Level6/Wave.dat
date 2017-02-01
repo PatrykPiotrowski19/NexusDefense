@@ -1,0 +1,38 @@
+Wave.waves = 15
+Wave.enemies = 14
+
+0.enemies = Minion_Mage
+1.enemies = Minion_Melee
+2.enemies = Krug
+3.enemies = Raptor_Mini
+4.enemies = Gromp
+5.enemies = RiderChaos
+6.enemies = RiderOrder
+7.enemies = Raptor
+8.enemies = Alistar
+9.enemies = Hecarim
+10.enemies = Galio
+11.enemies = Rammus
+12.enemies = Udyr
+13.enemies = Herald
+
+
+Wave.info
+15	10	0	0	0	0	0	0	0	0	0	0	0	0
+17	12	5	4	4	0	0	0	0	0	0	0	0	0
+19	15	5	4	4	3	3	2	0	0	0	0	0	0
+21	16	6	5	5	3	3	2	0	0	0	0	0	0
+23	18	6	5	5	4	4	3	1	1	0	1	1	0
+25	19	6	5	6	4	4	3	1	1	1	1	1	0
+28	21	7	6	6	4	4	4	2	2	1	1	1	0
+30	25	7	6	7	5	5	5	2	2	1	1	2	0
+30	25	8	6	7	5	5	5	2	2	2	2	2	1
+30	25	8	7	8	6	6	6	3	3	2	2	2	0
+30	25	8	7	9	6	6	8	4	4	3	2	3	0
+30	25	9	8	9	7	7	9	5	5	3	3	4	2
+30	25	9	8	10	8	7	10	6	6	4	3	4	0
+30	25	10	9	11	9	8	12	7	7	5	4	5	0
+30	25	11	10	12	9	9	15	9	9	6	4	6	3
+
+
+

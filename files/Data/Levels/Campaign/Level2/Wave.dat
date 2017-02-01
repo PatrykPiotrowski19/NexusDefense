@@ -1,0 +1,24 @@
+Wave.waves = 12
+Wave.enemies = 7
+
+0.enemies = Minion_Melee
+1.enemies = Krug
+2.enemies = Raptor_Mini
+3.enemies = Gromp
+4.enemies = RiderChaos
+5.enemies = RiderOrder
+6.enemies = Alistar
+
+Wave.info
+7	5	0	0	0	0	0
+12	8	0	0	0	0	0
+15	11	5	0	0	0	0
+16	13	7	3	0	0	0
+18	15	8	4	0	0	0
+19	16	10	6	0	0	1
+20	17	12	8	2	2	2
+21	19	15	9	3	3	2
+23	20	17	10	5	5	3
+24	21	18	12	6	6	5
+25	22	19	13	8	8	8
+28	24	20	16	10	10	13

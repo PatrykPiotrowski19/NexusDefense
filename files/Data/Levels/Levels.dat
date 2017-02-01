@@ -1,0 +1,33 @@
+maps = 8
+
+0.Name = Campaign1
+0.Dir = Data\Levels\Campaign\Level1\Level.dat
+0.Wave = Data\Levels\Campaign\Level1\Wave.dat
+
+1.Name = Campaign2
+1.Dir = Data\Levels\Campaign\Level2\Level.dat
+1.Wave = Data\Levels\Campaign\Level2\Wave.dat
+
+2.Name = Campaign3
+2.Dir = Data\Levels\Campaign\Level3\Level.dat
+2.Wave = Data\Levels\Campaign\Level3\Wave.dat
+
+3.Name = Campaign4
+3.Dir = Data\Levels\Campaign\Level4\Level.dat
+3.Wave = Data\Levels\Campaign\Level4\Wave.dat
+
+4.Name = Campaign5
+4.Dir = Data\Levels\Campaign\Level5\Level.dat
+4.Wave = Data\Levels\Campaign\Level5\Wave.dat
+
+5.Name = Campaign6
+5.Dir = Data\Levels\Campaign\Level6\Level.dat
+5.Wave = Data\Levels\Campaign\Level6\Wave.dat
+
+6.Name = Campaign7
+6.Dir = Data\Levels\Campaign\Level7\Level.dat
+6.Wave = Data\Levels\Campaign\Level7\Wave.dat
+
+7.Name = Campaign8
+7.Dir = Data\Levels\Campaign\Level8\Level.dat
+7.Wave = Data\Levels\Campaign\Level8\Wave.dat

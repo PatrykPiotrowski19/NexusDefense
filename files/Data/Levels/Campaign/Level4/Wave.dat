@@ -1,0 +1,26 @@
+Wave.waves = 8
+Wave.enemies = 7
+
+0.enemies = Krug
+1.enemies = Raptor
+2.enemies = Gromp
+3.enemies = Hecarim
+4.enemies = Galio
+5.enemies = Alistar
+6.enemies = Herald
+
+
+
+
+Wave.info
+6	6	3	0	0	0	0
+10	10	5	0	0	0	0
+16	18	8	0	0	0	0
+20	20	12	0	0	2	0
+24	24	15	1	1	4	1
+26	26	18	1	1	6	1
+30	30	20	2	2	8	1
+33	33	22	3	4	9	1
+
+
+

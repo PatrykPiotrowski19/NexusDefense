@@ -1,0 +1,46 @@
+Level.dim_x = 15
+Level.dim_y = 15
+
+Level.entraces = 2
+Level.max_enemies = 100
+Level.max_money = 32
+Level.min_money = 30
+Level.max_health = 100000
+
+Level.base_speed = 14
+Level.max_speed = 32
+Level.increase_base_speed_per_wave = 1.15
+
+Level.start_interval = 1150
+Level.interval_loose_per_wave = 45
+Level.min_interval = 750
+
+Level.pos_x = -17.7467 
+Level.pos_y = 17.5
+Level.pos_z = 4.4285
+
+Level.dir_x = 0.4299
+Level.dir_y = -0.992839 
+Level.dir_z = 0
+
+Level.start_money = 1000
+Level.base_health = 40
+Level.gain_health = 30
+
+Level.map
+-1	-1	-1	-1	-1	0	1	0	1	0	-1	-1	-1	-1	-1
+-1	-1	-1	-1	-1	0	4	0	4	0	-1	-1	-1	-1	-1
+-1	0	0	0	0	0	5	0	5	0	0	0	0	0	-1
+-1	0	11	10	9	8	6	0	6	8	9	10	11	0	-1
+-1	0	12	0	0	0	0	0	0	0	0	0	12	0	-1
+-1	0	13	0	49	50	52	53	52	50	49	0	13	0	-1
+-1	0	14	0	48	0	0	54	0	0	48	0	14	0	-1
+-1	0	15	0	47	0	-1	55	-1	0	47	0	15	0	-1
+-1	0	18	0	44	0	-1	1000	-1	0	44	0	18	0	-1
+-1	0	19	0	43	0	-1	-1	-1	0	43	0	19	0	-1
+-1	0	22	0	40	0	0	0	0	0	40	0	22	0	-1
+-1	0	23	0	39	38	36	0	36	38	39	0	23	0	-1
+-1	0	24	0	0	0	35	0	35	0	0	0	24	0	-1
+-1	0	27	28	29	30	32	0	32	30	29	28	27	0	-1
+-1	0	0	0	0	0	0	0	0	0	0	0	0	0	-1
+
